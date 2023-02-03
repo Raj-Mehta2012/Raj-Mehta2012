@@ -2,20 +2,9 @@
 
 💫 About Me:
 
-🔭 I’m pursing Master's from Northeastern University and currently working as an Intern at Digital.ai, Boston.
-🌱 I’m interested in roles related to Data Engineering.
-
-🌐 Socials:
-
-Instagram LinkedIn Stack Overflow
-
-💻 Tech Stack:
-
-HTML5 Java JavaScript Python Shell Script Google Cloud Heroku AWS Azure Bootstrap FastAPI JWT Insomnia Apache Airflow Jenkins MongoDB SQLite Postgres  Neo4J MySQL MariaDB Canva Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow Ansible Arduino Docker Terraform Raspberry Pi Postman Notion Kubernetes Gradle Jira
-
-
-
 ### Hi there 👋, I'm [Raj Mehta](https://github.com/Raj-Mehta2012) 👨‍💻
+🔭 I’m pursing Master's from Northeastern University
+🌱 I’m interested in roles related to Data Engineering.
 
 <br/>
 
@@ -59,7 +48,7 @@ Things I am currently experimenting with : typescript, ...
 ### 🛠️ Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=Java)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -94,8 +83,3 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-raj_kamlesh_mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kamlesh-mehta/)](https://www.linkedin.com/in/raj-kamlesh-mehta/)
-
-
--------------------------------------------------
-##### Since 2022:
-<img src="https://komarev.com/ghpvc/?username=Raj-Mehta2012&color=blueviolet&style=flat">
