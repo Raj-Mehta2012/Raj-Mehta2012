@@ -76,7 +76,7 @@ Things I am currently experimenting with : typescript, ...
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Raj_Mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/) or [![Gmail Badge](https://img.shields.io/badge/-mehta.raj1@northeastern.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehta.raj1@northeastern.edu)(mailto:mehta.raj1@northeastern.edu)]
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Raj_Mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/) or [![Gmail Badge](https://img.shields.io/badge/-mehta.raj1@northeastern.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehta.raj1@northeastern.edu)](mailto:mehta.raj1@northeastern.edu)
 
 
 ###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/Raj-Mehta2012?label=Follow&style=social)](https://github.com/Raj-Mehta2012/?tab=follow)
