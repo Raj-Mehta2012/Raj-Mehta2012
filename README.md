@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Raj-Mehta2012/Raj-Mehta2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
 
-Here are some ideas to get you started:
+🔭 I’m pursing Master's from Northeastern University and currently working as an Intern at Digital.ai, Boston.
+🌱 I’m interested in roles related to Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+
+Instagram LinkedIn Stack Overflow
+
+💻 Tech Stack:
+
+HTML5 Java JavaScript Python Shell Script Google Cloud Heroku AWS Azure Bootstrap FastAPI JWT Insomnia Apache Airflow Jenkins MongoDB SQLite Postgres  Neo4J MySQL MariaDB Canva Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow Ansible Arduino Docker Terraform Raspberry Pi Postman Notion Kubernetes Gradle Jira
+
+📊 GitHub Stats:
+
+
+
