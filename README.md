@@ -13,7 +13,5 @@ Instagram LinkedIn Stack Overflow
 
 HTML5 Java JavaScript Python Shell Script Google Cloud Heroku AWS Azure Bootstrap FastAPI JWT Insomnia Apache Airflow Jenkins MongoDB SQLite Postgres  Neo4J MySQL MariaDB Canva Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow Ansible Arduino Docker Terraform Raspberry Pi Postman Notion Kubernetes Gradle Jira
 
-📊 GitHub Stats:
-
 
 
