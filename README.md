@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 # 💫 About Me:
-📊 Data Engineer with a passion for advancing the AI/ML and Data Science domains.<br> 👨🏻‍💻 Aiming to secure a full-time position that allows for significant contributions to the AI/ML and Data Science sectors.<br> 👨🏻‍🎓 Currently pursuing a Master's degree in Information Systems at Northeastern University.<br> 🔭Interested in opportunities that leverage my academic and professional experience in a challenging and innovative environment.
+- Data Engineer with a passion for advancing the AI/ML and Data Science domains.<br> - Aiming to secure a full-time position that allows for significant contributions to the AI/ML and Data Science sectors.<br> - Currently pursuing a Master's degree in Information Systems at Northeastern University.<br> - Interested in opportunities that leverage my academic and professional experience in a challenging and innovative environment.
 
 
 ## 🌐 Socials:
